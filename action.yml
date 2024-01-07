@@ -1,4 +1,4 @@
-name: 'Run ElasticSearch'
+name: 'Run ElasticSearch docker container'
 description: 'Setup ElasticSearch container compatible with amd/arm architectures'
 author: 'Orkin'
 branding:
