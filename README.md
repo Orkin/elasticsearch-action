@@ -16,7 +16,7 @@ steps:
     sudo sysctl -w fs.file-max=262144
     sudo sysctl -w vm.max_map_count=262144
 
-- uses: orkin/elasticsearch-action@v1.2
+- uses: orkin/elasticsearch-action@v0.1.0
   with:
     elasticsearch version: '8.11.0'
     host port: 9200
