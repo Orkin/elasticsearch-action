@@ -1,6 +1,6 @@
-name: 'Setup ElasticSearch'
-description: 'Setup ElasticSearch'
-author: 'getong'
+name: 'Run ElasticSearch'
+description: 'Setup ElasticSearch container compatible with amd/arm architectures'
+author: 'Orkin'
 branding:
   icon: 'database'
   color: 'orange'
